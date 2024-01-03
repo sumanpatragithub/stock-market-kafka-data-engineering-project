@@ -19,3 +19,7 @@ Technology Used
 5. EC2
    
 * Apache Kafka
+
+Dataset Used
+------------
+I have used this dataset: https://github.com/sumanpatragithub/stock-market-kafka-data-engineering-project/blob/main/stock_market_data.csv
